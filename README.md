@@ -10,7 +10,7 @@ Built using:
 
 # 🔗 Live Dashboard
 
-[View Dashboard](YOUR_TABLEAU_PUBLIC_LINK)
+[View Dashboard](https://public.tableau.com/views/AirlinePassengerRouteIntelligence/HomePage?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
