@@ -277,16 +277,6 @@ Provides quick navigation to all dashboard sections.
 - Operational Cost vs Delay
 - Monthly Delay & Cancellation Analysis
 
----
-
-# 📁 Dataset
-
-Due to GitHub file size limitations, the complete dataset is not included in this repository.
-
-🔗 Download Full Dataset:  
-[Dataset Link Here]
-
-> **Note:** Raw airline operational data was imported into PostgreSQL and modeled using a dimensional data warehouse architecture (Fact & Dimension tables). After data cleaning, transformation, and business-rule implementation, a curated Gold Layer dataset was created and exported for Tableau. This Gold dataset served as the primary analytical source for all dashboards, enabling airline operations analysis, route intelligence, passenger behavior insights, revenue analytics, booking performance monitoring, and delay impact assessment.
 
 ---
 
